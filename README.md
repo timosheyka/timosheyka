@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Timothy</h1>
-<h3 align="center">Enthusiastic Programmer with enormous desire to improve myself everyday</h3>
+<h3 align="center">Enthusiastic Programmer with enormous desire to authentic projects</h3>
 
-- 🎓 I’m currently working on : **passing summer semester xD**
+- 🎓 I’m currently working on : **finding a job**
 
 - 🏆 I’m a professional football player : **PRO Warszawa**
 
 - 📝 Most loved quote : **"Imagination is the limit"**
 
-- 🤷‍♂️ Interesting fact : **I'm 19 and I'm from Belarus**
+- 🤷‍♂️ Interesting fact : **I'm 20 and I'm from Belarus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
