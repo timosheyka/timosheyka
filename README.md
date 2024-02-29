@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Timothy</h1>
-<h3 align="center">Enthusiastic Programmer with enormous desire to authentic projects</h3>
+<h3 align="center">Enthusiastic Programmer with enormous desire to create authentic projects</h3>
 
 - 🎓 I’m currently working on : **finding a job**
 
