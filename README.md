@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently working on : **finding a job**
 
-- 🏆 I’m a professional football player : **PRO Warszawa**
+- 🏆 I’m a professional football player : **GKS Podolszyn**
 
 - 📝 Most loved quote : **"Imagination is the limit"**
 
